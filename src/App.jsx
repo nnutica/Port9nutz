@@ -1,6 +1,6 @@
 import './App.css'
-import LeftSection from './sections/leftsection/Leftsection'
-import Rightsection from './sections/rightsection/Rightsection'
+import LeftSection from './sections/leftsection'
+import Rightsection from './sections/rightsection'
 
 
 function App() {
