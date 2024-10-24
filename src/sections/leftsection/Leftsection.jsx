@@ -1,4 +1,4 @@
-import Contact from "../contact";
+import Contact from "../contact/contact";
 import Header from "../Header/header";
 import Navbar from "../Navbar/navbar";
 
