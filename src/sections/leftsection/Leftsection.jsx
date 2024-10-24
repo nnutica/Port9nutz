@@ -1,6 +1,6 @@
 import Contact from "../contact";
-import Header from "../Header";
-import Navbar from "../Navbar";
+import Header from "../Header/header";
+import Navbar from "../Navbar/navbar";
 
 const  LeftSection =()=>{
     return(
