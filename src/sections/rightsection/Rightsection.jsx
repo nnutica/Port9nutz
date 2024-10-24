@@ -1,7 +1,9 @@
+import About from "../About/about";
+
 const Rightsection =()=>{
     return(
         <div>
-          <div className='mb-96'>About</div>
+          <About />
           <div className='mb-96'>Experience</div>
           <div className='mb-96'>Experience</div>
           <div className='mb-96'>Experience</div>
