@@ -9,7 +9,7 @@ const Navbar = ()=>{
             About </div>
           <div>Experience</div>
           <div>Project</div>
-          <div>Article</div>
+          <div>Certification</div>
         </div>
     )
 }
