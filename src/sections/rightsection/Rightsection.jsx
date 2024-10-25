@@ -1,14 +1,10 @@
 import About from "../About/about";
-
+import Exp from "../experience/exp";
 const Rightsection =()=>{
     return(
         <div>
           <About />
-          <div className='mb-96'>Experience</div>
-          <div className='mb-96'>Experience</div>
-          <div className='mb-96'>Experience</div>
-          <div className='mb-96'>Experience</div>
-          <div className='mb-96'>Experience</div>
+          <Exp />
           <div>Cretificate</div>
       </div> 
 
