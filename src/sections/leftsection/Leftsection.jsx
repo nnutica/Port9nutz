@@ -4,8 +4,8 @@ import Navbar from "../Navbar/navbar";
 
 const  LeftSection =()=>{
     return(
-        <div>
-          <div className='sticky top-14 grid grid-rows-[40%-40%-20%] h-[90vh]'>
+        <div className="px-3">
+          <div className='sticky top-14 grid gap-y-5 lg:grid-rows-[20%-30%-50%] lg:h-[90vh]'>
           <Header />
           <Navbar />
           <Contact />

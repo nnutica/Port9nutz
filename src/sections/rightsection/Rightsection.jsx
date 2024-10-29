@@ -1,10 +1,10 @@
 import About from "../About/about";
-import Exp1 from "../experience/Exp1";
+import Exp from "../experience/Exp1";
 const Rightsection =()=>{
     return(
-        <div>
+        <div className="grid gap-y-40 px-4">
           <About />
-          <Exp1 />
+          <Exp />
           <div>Cretificate</div>
       </div> 
 

@@ -6,14 +6,15 @@ export default {
   ],
   theme: {
     extend: {
-      colors:{
-        primaryTitle:"#697565",
-        primaryContent:"#3C3D37",
-        primarySubcontent:"#181C14",
-        secondarycontent:"#000000",
-        primaryBase:"#243642",
-        primaryAccent:"#387478",
-        primaryBg:"#ECDFCC",
+      colors: {
+        primaryTitle: "#0AFFA0",      
+        primaryContent: "#29FFB5",    
+        primarySubcontent: "#56FFC1", 
+        secondaryContent: "#A0FFDA",  
+        primaryBase: "#303030",       
+        primaryAccent: "#444444",     
+        primaryBg: "#1A1A1A",
+        primarybadge:"#1A1A19",         
       }
     },
   },

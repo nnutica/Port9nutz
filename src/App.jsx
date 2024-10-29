@@ -7,7 +7,7 @@ function App() {
   
   return (
     
-      <div className=" mt-16 mx-auto max-w-6xl grid grid-cols-[30%_70%]">
+      <div className=" mt-16 mx-auto max-w-6xl grid gap-y-5 lg:grid-cols-[30%_70%]">
         <LeftSection />
         <Rightsection />
         

@@ -7,6 +7,14 @@
     body{
         margin:0;
         @apply bg-primaryBg;
-        @apply text-secondarycontent;
+        @apply text-secondaryContent;
     }
+}
+
+.Exdes{
+@apply text-sm;
+}
+
+.BadgeDesign{
+    @apply inline-flex items-center bg-primarySubcontent text-xs text-gray-600 rounded-md px-1 py-1 ;
 }
