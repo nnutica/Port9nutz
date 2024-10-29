@@ -1,6 +1,6 @@
 import React from 'react'
 import { exp1 } from '../../contents/exp';
-function Exp (){
+function Exp1(){
   return (
    <div>
    <div className='mb-96' >
@@ -14,4 +14,4 @@ function Exp (){
   )
 }
 
-export default Exp;
+export default Exp1;
