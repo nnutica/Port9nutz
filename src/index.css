@@ -16,5 +16,5 @@
 }
 
 .BadgeDesign{
-    @apply inline-flex items-center bg-primarySubcontent text-xs text-gray-600 rounded-md px-1 py-1 ;
+    @apply inline-flex items-center bg-primarySubcontent text-xs rounded-md px-1 py-1 ;
 }

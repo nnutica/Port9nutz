@@ -14,7 +14,9 @@ export default {
         primaryBase: "#303030",       
         primaryAccent: "#444444",     
         primaryBg: "#1A1A1A",
-        primarybadge:"#1A1A19",         
+        primarybadge:"#1A1A19", 
+        primaryOnhover:"#00cc7e",
+        primaryBghover:"#00804f"        
       }
     },
   },
