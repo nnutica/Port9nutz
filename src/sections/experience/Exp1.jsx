@@ -25,7 +25,7 @@ function Exp(){
             <Picture picture={koomink} title="SCL" />
         </div>
         <div id="experience" className='flex flex-col gap-y-4'>
-          < Titlelink ishighlight={isMouseEnter['exp1']} title={exp1.title}  />
+          < Titlelink ishighlight={isMouseEnter['exp1']} title={exp1.title} link="https://www.facebook.com/No12NuTiCA0ppa"  />
           <div id="logo" className='flex gap-x-4 text-2xl'>
           <a href='#' target='blank'><FontAwesomeIcon icon={faGithub} /></a>
             <a href='https://www.linkedin.com/in/nitinat-loruthai-273497328/' target='blank'><FontAwesomeIcon icon={faLinkedin} /></a>
